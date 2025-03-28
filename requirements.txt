@@ -1,0 +1,6 @@
+streamlit
+groq
+streamlit-tags
+pygments
+python-dotenv
+torch
