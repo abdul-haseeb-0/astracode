@@ -9,7 +9,7 @@ BACKUP_MODEL = "llama3-70b-8192"
 LANGUAGES = ["Python", "JavaScript", "Java", "C++", "Go", "Rust", "TypeScript", "Swift"]
 THEMES = ["Neon", "Cyberpunk", "Solarized", "Dracula", "Monokai"]
 
-# Streamlit UI Config
+# Streamlit UI Config 
 st.set_page_config(
     page_title="AstraCode",
     page_icon="✨",
