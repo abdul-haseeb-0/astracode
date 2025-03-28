@@ -75,12 +75,6 @@ streamlit run app.py
 
 ---
 
-## 👥 Contributors
-- **[Your Name]** - Developer & AI Engineer  
-- **Groq API** - LLM Support  
-
----
-
 ## 📜 License
 MIT License - Feel free to use, modify, and distribute!  
 
