@@ -4,3 +4,4 @@ streamlit-tags
 pygments
 python-dotenv
 torch
+streamlit-extras

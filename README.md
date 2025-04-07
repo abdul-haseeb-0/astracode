@@ -1,21 +1,22 @@
-# ✨ AstraCode: AI-Powered Code Generator
-
-## 🚀 Overview
-**AstraCode** is an AI-driven code generation tool designed to assist developers in creating production-ready code in multiple programming languages. It leverages **Groq API**, **Streamlit**, and advanced LLMs to provide an interactive and efficient coding experience.
+# AstraCode Pro 💻
+---
+![AstraCode Pro Demo](https://drive.google.com/file/d/1tBoUp7H0IDE5Zyc85nqnJOo8c-rJQGQM/view?usp=sharing) 
 
 ---
-
-## 🔥 Features
-✔ **Multi-Language Support** - Generate code in popular languages like Python, JavaScript, Java, C++, and more.  
-✔ **Customizable Themes** - Choose from modern themes like Neon, Cyberpunk, and Dracula for a personalized UI.  
-✔ **Code Complexity Levels** - Generate code at Basic, Medium, or Advanced complexity levels.  
-✔ **Keyword Tagging** - Add keywords to refine your code generation context.  
-✔ **Alternative Solutions** - Generate alternative approaches for the same coding problem.  
-✔ **Code Explanation** - Get detailed explanations for the generated code.  
-✔ **Interactive UI** - User-friendly interface with dynamic settings and real-time feedback.  
+AstraCode Pro is an advanced AI-powered code generation tool that helps developers quickly create production-ready code in multiple programming languages. With customizable complexity levels, beautiful themes, and intelligent explanations, it's the perfect assistant for both learning and professional development.
 
 ---
+## Features 🚀
+- **Multi-language Support**: Generate code in Python, JavaScript, Java, C++, Go, Rust, TypeScript, Swift, Kotlin, and C#
+- **Complexity Control**: Choose from Basic, Medium, Advanced, or Expert levels
+- **Smart Explanations**: Get detailed breakdowns of generated code
+- **Code Optimization**: Improve existing code with performance enhancements
+- **Alternative Solutions**: Explore different approaches to the same problem
+- **Beautiful Themes**: 8 professionally designed color schemes
+- **Customizable Output**: Control coding style and add keywords/tags
+- **Responsive UI**: Works perfectly on desktop and mobile
 
+---
 ## 🛠️ Tech Stack
 🔹 **Python** - Core programming language  
 🔹 **Streamlit** - UI framework for interactive user experience  
@@ -24,7 +25,6 @@
 🔹 **Torch** - Backend support for AI models  
 
 ---
-
 ## 🚀 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
@@ -49,7 +49,6 @@ streamlit run app.py
 ```
 
 ---
-
 ## 📌 Usage
 1️⃣ Open the AstraCode UI in your browser.  
 2️⃣ Describe your coding requirement in the input box.  
